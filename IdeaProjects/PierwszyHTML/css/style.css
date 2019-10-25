@@ -1,0 +1,10 @@
+body{background-color: #4fcdb9;}
+a:hover { background-color: rgba(0, 0, 0, 0.2); color: rgba(255, 255, 255, 0.75); transition: all 1s;}
+.scroll {
+  position: fixed;
+  bottom: 30px;
+  right: 30px;
+}
+html {
+  scroll-behavior: smooth;
+}

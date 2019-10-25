@@ -1,0 +1,10 @@
+li {
+  display: inline-list-item;
+}
+
+le{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
